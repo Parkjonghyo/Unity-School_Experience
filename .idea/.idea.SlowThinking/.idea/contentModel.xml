@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\1310PJH\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\1310PJH\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SlowThinking.709796469.00" t="ExcludeRecursive" />
+    <e p="C:\Users\1310PJH\Unity-Projects\Powerslide-master\SlowThinking" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="HoldingSpace.cs" t="Include" />
+        <e p="Oculus" t="Include">
+          <e p="VR" t="Include">
+            <e p="Plugins" t="Include">
+              <e p="placeholder.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Draw" t="Include">
+            <e p="DrawManager.cs" t="Include" />
+            <e p="FollowCamera.cs" t="Include" />
+          </e>
+          <e p="MenuOpen.cs" t="Include" />
+          <e p="MusicManager.cs" t="Include" />
+          <e p="MusicPlayer.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerLiftUpItem.cs" t="Include" />
+          <e p="rigidcheck.cs" t="Include" />
+          <e p="SceneLeap.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SlowThinking.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
